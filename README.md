@@ -1,4 +1,4 @@
-# COP4350
+# COP4530
 Data Structures
 
 Project 1: Implementing a program to study the Internet network connectivity by analyzing BGP routing tables.
